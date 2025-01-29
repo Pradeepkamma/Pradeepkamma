@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">.🌱 I’m currently learning full stack python engineer<br><br>.👨‍💻 All of my projects are available at https://hemanthch.vercel.<br><br>.💬 Ask me about Python, SQL, HTML, CSS, JavaScript<br><br>.📫 How to reach me kammapradeep2002@gmail.com<br><br>.📄 Know about my experiences https://hemanthch.vercel.app/assets/Resume-</p>
+<p align="left">.🌱 I’m currently learning Java Full Stack Development<br><br>.💬 Ask me about Java, SQL, HTML, CSS, JavaScript<br><br>.📫 How to reach me kammapradeep2002@gmail.com<br><br>.</p>
 
 ###
 
