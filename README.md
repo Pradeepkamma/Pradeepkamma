@@ -1,77 +1,120 @@
 <div align="center">
-  <img height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPLkVglnKVK92pdwh8FmAvVChT9K-LTkC35w&usqp=CAU"  />
+  <img height="200", width="350" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPLkVglnKVK92pdwh8FmAvVChT9K-LTkC35w&usqp=CAU"  />
 </div>
 
-###
-
 <h1 align="center">Hi 👋, I'm Pradeep Kamma</h1>
+<h3 align="center">Full Stack Developer | Java & Web Technologies | Eager to Solve Real-World Problems</h3>
 
-###
+---
 
-<h3 align="center">A passionate frontend developer from India</h3>
+## 👨‍💻 About Me
 
-###
+- 🎓 I'm a B.Tech graduate in Information Technology from NRI Institute of Technology  
+- 💼 Currently focused on **Java Full Stack Development**  
+- 🛠 I build responsive web applications using Java, SQL, HTML, CSS, and JavaScript  
+- 🔍 Interested in Machine Learning, APIs, and backend development  
+- ✍️ I’ve published a paper on **Tesla Stock Price Prediction using ML** (IJISRT, 2023)  
+- 🧠 I love turning ideas into working products and continuously upskilling
 
-<p align="left">
-🌱 I’m currently learning Java Full Stack Development<br><br>
-💬 Ask me about Java, SQL, HTML, CSS, JavaScript<br><br>
-📫 How to reach me kammapradeep2002@gmail.com<br><br>
-</p>
+---
 
-###
+## 🛠️ Tech Stack & Tools
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
 
-###
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/><br><b>Java</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Servlets-4B8BBE?style=for-the-badge&logo=java&logoColor=white"/><br><b>Servlets</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white"/><br><b>JSP</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white"/><br><b>JDBC</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JPA-323330?style=for-the-badge&logo=java&logoColor=white"/><br><b>JPA</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/><br><b>Hibernate</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/><br><b>Spring</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/JMS-007396?style=for-the-badge&logo=java&logoColor=white"/><br><b>JMS</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/><br><b>HTML</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/><br><b>CSS</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/><br><b>JavaScript</b>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/><br><b>MySQL</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Oracle-007396?style=for-the-badge&logo=oracle&logoColor=white"/><br><b>Oracle</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/><br><b>Postman</b>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br><b>Git</b>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
+
+
+## 📫 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kammapradeep" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://x.com/kammapradeep25?t=zgu4Xj-RTpwn4HlpR63Ggg&s=08" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/i_dont_____care_?igsh=MXZ5cDRuZWl2NDZkdA==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:kammapradeep2002@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" />
   </a>
 </div>
 
-###
+---
 
-<h3 align="left">🛠 Languages and Tools:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="Oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="Django logo"  />
-</div>
-
-###
-
-## **🔥 GitHub Stats:**
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pradeepkamma&theme=dark&hide_border=false" height="200" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pradeepkamma&theme=dark&hide_border=false" height="200" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pradeepkamma&show_icons=true&theme=dark&hide_border=false" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepkamma&layout=compact&theme=dark&hide_border=false" height="180" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pradeepkamma&show_icons=true&theme=dark&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeepkamma&layout=compact&theme=dark&hide_border=false" height="180" />
 </div>
+
+---
+
+## 📌 Featured Project
+
+- 🔗 **[Tesla Stock Price Prediction](https://github.com/Pradeepkamma/Tesla-Stock-Price-Prediction)**  
+  → Published ML project using regression to predict Tesla stock trends  
+  → Tools: Pandas, NumPy, scikit-learn, Jupyter Notebook
+
+---
