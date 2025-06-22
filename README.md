@@ -14,7 +14,8 @@
 - 🔍 Curious about APIs, backend systems, and exploring Machine Learning applications
 - ✍️ Published a research paper titled **“Tesla Stock Price Prediction using ML”** in IJISRT (2023)
 - 🧠 Passionate about solving real-world problems through tech and constantly learning new tools
-- 🌐 Visit my portfolio: kammapradeepportfolio.netlify.app
+- 🌐🔗 **[Visit my portfolio](kammapradeepportfolio.netlify.app)**
+
 
 ---
 
