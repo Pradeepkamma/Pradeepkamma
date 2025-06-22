@@ -8,13 +8,13 @@
 ---
 
 ## 👨‍💻 About Me
-
-- 🎓 I'm a B.Tech graduate in Information Technology from NRI Institute of Technology  
-- 💼 Currently focused on **Java Full Stack Development**  
-- 🛠 I build responsive web applications using Java, SQL, HTML, CSS, and JavaScript  
-- 🔍 Interested in Machine Learning, APIs, and backend development  
-- ✍️ I’ve published a paper on **Tesla Stock Price Prediction using ML** (IJISRT, 2023)  
-- 🧠 I love turning ideas into working products and continuously upskilling
+- 🎓 I'm a B.Tech graduate in Information Technology from NRI Institute of Technology
+- 💼 Currently focused on **Java Full Stack Development**, including both frontend and backend
+- 🧩 Skilled in building responsive web applications using Java, SQL, HTML, CSS, and JavaScript
+- 🔍 Curious about APIs, backend systems, and exploring Machine Learning applications
+- ✍️ Published a research paper titled **“Tesla Stock Price Prediction using ML”** in IJISRT (2023)
+- 🧠 Passionate about solving real-world problems through tech and constantly learning new tools
+- 🌐 Visit my portfolio: kammapradeepportfolio.netlify.app
 
 ---
 
